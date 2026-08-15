@@ -69,7 +69,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | **[Nike Sales — Cleaning & Preprocessing Pipeline](https://github.com/ai-dev-intern/nike-sales-cleaning)** | 14-step auditable pipeline over 2,500 messy retail rows. Multi-format date parsing, categorical canonicalisation, business-rule validation, and a **target-leakage finding** that showed the dataset couldn't support a model — proven with correlation + ANOVA evidence. | Python · pandas · scikit-learn · SciPy |
-| **[Question Bank Generator](https://github.com/ai-dev-intern/question-bank-generator)** | LLM-assisted pipeline that scrapes, classifies, enriches and **machine-verifies** programming interview questions against real test cases, served through a static React portal with JSON export. | Python · Groq LLM · SQLite · React |
+| **[Question Bank Generator](https://github.com/ai-dev-intern/Automated-programming-question-generator)** | LLM-assisted pipeline that scrapes, classifies, enriches and **machine-verifies** programming interview questions against real test cases, served through a static React portal with JSON export. | Python · Groq LLM · SQLite · React |
 
 ---
 
