@@ -73,15 +73,19 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ai-dev-intern&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-dev-intern&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
+  <img src="https://streak-stats.demolab.com/?user=ai-dev-intern&theme=tokyonight&hide_border=true" alt="commit streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ai-dev-intern&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ai-dev-intern&theme=tokyo-night&hide_border=true&area=true" alt="contribution graph"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/ai-dev-intern/nike-sales-cleaning?style=for-the-badge&label=last%20commit&color=0A66C2" alt="last commit"/>
+  <img src="https://img.shields.io/github/languages/top/ai-dev-intern/nike-sales-cleaning?style=for-the-badge&color=3776AB" alt="top language"/>
 </p>
 
 ---
