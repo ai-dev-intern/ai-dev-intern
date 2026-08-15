@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech, Artificial Intelligence & Data Science (2024–28)**
+- 🎓 **B.Tech, Artificial Intelligence & Data Science (2025–29)**
 - 📊 **Data analytics & ML** — cleaning, profiling, feature engineering, modelling
 - 🐍 Python · pandas · NumPy · scikit-learn
 - 🌐 Building full pipelines end to end — ingestion → validation → model → UI
